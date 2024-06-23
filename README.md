@@ -1,5 +1,4 @@
-# Active Directory Lab Using VirtualBox
-
+# Enterprise Network Setup: Active Directory, DHCP, and User Management
 ![10](https://github.com/AmiliaSalva/ActiveDirectoryLab/assets/132176058/dcbbd122-9cf7-42af-9513-841eb780f96f)
 
 
